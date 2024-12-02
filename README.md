@@ -6,4 +6,8 @@
 
 sample2 브랜치 과제 완료
 
-13주차 충돌 여기는 sample1
+<<<<<<< HEAD
+13주차 충돌 여기는 sample1과 sample2였습니다
+=======
+여기는 sample2 13주차 충돌
+>>>>>>> sample2
